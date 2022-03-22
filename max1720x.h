@@ -48,7 +48,6 @@ public:
     double getTTE();
     double getTTF();
     uint8_t reset();
-private:
     uint16_t getStatus();
 };
 
